@@ -13,7 +13,7 @@ class Npc{
 class Play extends Npc{
   constructor(name, age,profession,level){
     super(name,age,profession);
-    this.leve = level;
+    this.level = level;
   }
 }
 
